@@ -1,0 +1,8 @@
+<suite name="PlanSourceSuite">
+    <test name="PlanSource Tests">
+        <classes>
+            <class name="tests.PlanSourceTest"/>
+            <class name="reporting.AllureReportGenerator"/>
+        </classes>
+    </test>
+</suite>
